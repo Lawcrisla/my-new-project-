@@ -1,7 +1,8 @@
 ## my-new-project-
 Building AI course Project
 
-## Africa Online Store and Cargo Shipment.
+## Project Tittle
+• Africa Online Store and Cargo Shipment.
 
 Final project for the Building AI course
 

@@ -1,4 +1,4 @@
-## my-new-project-
+# my-new-project-
 Building AI course Project
 
 ## Project Tittle
